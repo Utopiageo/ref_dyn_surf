@@ -1,2 +1,2 @@
 # ref_dyn_surf
-référencement dynamique appliqué aux polygone
+référencement dynamique appliqué aux polygones
